@@ -1,8 +1,4 @@
-/*
-快手极速版-快手果园
-抓包教程地址：http://cxgc.top/archives/ksjsb
-欢迎填我邀请码：791642607
-交流群：212796668、681030097
+
 脚本兼容: QuantumultX, Surge,Loon, JSBox, Node.js
 =================================Quantumultx=========================
 [task_local]
